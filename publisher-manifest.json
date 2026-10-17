@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c6c1254b5530fd8f490dc516",
+  "owner": "euqqmbpu",
+  "repo": "page-2eb1c03ae1ca0e93c41d533f",
+  "title": "翻儿",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2eb1c03ae1ca0e93c41d533f",
+      "a": "翻儿",
+      "b": "",
+      "entity": "翻儿",
+      "brand": "翻儿",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7cbdf88d6df3a6b5b15c69657814080d38da6172f1019aeba3b0a77d7246a5f7",
+      "content": {
+        "keyword1": "翻儿",
+        "keyword2": "",
+        "primary_entity": "翻儿",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "翻儿提供务实的网络中转服务配置说明。涵盖流量配额、设备支持、线路特性与订阅接入。适用于需要稳定全局代理环境的用户。",
+          "AI_DESCRIPTION": "翻儿提供务实的网络中转服务配置说明。涵盖流量配额、设备支持、线路特性与订阅接入。适用于需要稳定全局代理环境的用户。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--brown: #3D2914;--light-brown: #5C4033;--mint: #A8E6CF;--soft-mint: #E0F5EC;--text-dark: #2B1F0E;--bg: #FAFAF6}\n\n* {margin: 0;padding: 0;box-sizing: border-box}\n\nbody {font-family: -apple-system, \"Helvetica Neue\", Arial, sans-serif;background: var(--bg);color: var(--text-dark);line-height: 1.7}\n\nheader {background: var(--brown);color: var(--mint);padding: 12px 20px;display: flex;align-items: center;font-size: 14px}\n\nheader span {margin-right: 20px;font-weight: 600}\n\nnav a {color: var(--soft-mint);text-decoration: none;margin: 0 12px;font-size: 13px;opacity: 0.8}\n\nnav a:hover {opacity: 1;color: var(--mint)}\n\n.hero {padding: 100px 20px 80px;max-width: 500px;margin-left: 5%}\n\n.hero h1 {font-size: 64px;font-weight: 800;color: var(--brown);margin-bottom: 20px;letter-spacing: -1px}\n\n.hero p {color: var(--light-brown);font-size: 15px;margin-bottom: 24px}\n\n.hero .meta {border-left: 3px solid var(--mint);padding-left: 15px;font-size: 12px;color: var(--light-brown)}\n\nsection {padding: 60px 20px;max-width: 1000px;margin: 0 auto}\n\nh2 {font-size: 28px;font-weight: 700;margin-bottom: 12px;color: var(--brown);border-bottom: 1px solid var(--mint);padding-bottom: 8px}\n\nh3 {font-size: 18px;margin-bottom: 10px;color: var(--brown);font-weight: 600}\n\np {margin-bottom: 12px;font-size: 15px}\n\n.content p {max-width: 700px}\n\n.plans {max-width: 800px;margin: 0 auto}\n\n.plan-card {margin-bottom: 40px;padding: 30px 0;border-bottom: 1px solid #E0E0D6}\n\n.plan-card:last-child {border-bottom: none}\n\n.plan-card h3 {font-size: 22px;margin-bottom: 8px}\n\n.plan-price {font-size: 14px;color: var(--light-brown);margin-bottom: 15px}\n\n.plan-price .monthly {font-weight: 700;color: var(--brown)}\n\n.plan-price .annual {margin-left: 12px;font-size: 12px;opacity: 0.7}\n\n.plan-features {list-style: none;font-size: 14px}\n\n.plan-features li {padding: 6px 0;border-bottom: 1px dashed #E8E8E0;color: var(--text-dark)}\n\n.plan-features li:last-child {border-bottom: none}\n\ndetails {margin-bottom: 15px;padding: 15px;background: var(--soft-mint);border-radius: 4px;font-size: 14px}\n\nsummary {cursor: pointer;font-weight: 600;color: var(--brown)}\n\ndetails p {margin-top: 12px;color: var(--text-dark);font-size: 13px}\n\n.clients {font-size: 14px}\n\n.clients p {border-left: 3px solid var(--mint);padding-left: 15px;margin-bottom: 15px}\n\nfooter {background: var(--brown);color: var(--soft-mint);padding: 20px;text-align: center;font-size: 12px}\n\n@media (max-width: 600px) {\n  .hero {margin-left: 0;padding: 60px 20px}\n  .hero h1 {font-size: 40px}\n}\n</style><header>\n  <span>翻儿</span>\n  <nav>\n    <a href=\"#manual\">说明</a>\n    <a href=\"#plans\">配置</a>\n    <a href=\"#clients\">接入</a>\n    <a href=\"#faq\">问答</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\">\n    <h1>翻儿</h1>\n    <p>翻儿是一项提供网络数据中转与线路调度的基础设施服务。本页面用于公示当前服务规格、配额限制及接入方式。请在使用前通读说明文档。</p>\n    <div class=\"meta\">\n      文档版本：1.0<br>\n      更新日期：参照页面发布日<br>\n      适用对象：具备基础客户端配置能力的用户\n    </div>\n  </section>\n\n  <section id=\"manual\" class=\"content\">\n    <h2>使用说明</h2>\n    <p>翻儿的核心功能为建立本地与远端节点之间的加密隧道。服务端负责流量转发与路由调度，客户端仅负责协议封装。用户需自行准备兼容的客户端软件。</p>\n    <h3>接入前提</h3>\n    <p>订阅链接需在控制面板中获取。该链接包含节点列表与加密参数，请勿公开分享。单条链接绑定账户，多设备登录受套餐配额限制。</p>\n    <h3>流量计算</h3>\n    <p>系统统计双向流量总和。当月配额耗尽后，连接将被中止直至下次重置周期或手动购买附加包。重置时间以服务器时间为准。</p>\n    <h3>线路说明</h3>\n    <p>普通线路基于标准公网传输，高峰期可能存在波动。专线线路采用内网直连架构，延迟与稳定性显著优于普通线路，具体可用性视套餐等级而定。</p>\n  </section>\n\n  <section id=\"plans\" class=\"plans\">\n    <h2>配置套餐</h2>\n    <p>以下为当前提供的标准规格。所有配额均以自然月为统计周期。</p>\n\n    <article class=\"plan-card\">\n      <h3>基础版</h3>\n      <div class=\"plan-price\">\n        <span class=\"monthly\">¥15/月</span>\n        <span class=\"annual\">按年付仅需 ¥150/年</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"plan-card\">\n      <h3>旗舰版（推荐配置）</h3>\n      <div class=\"plan-price\">\n        <span class=\"monthly\">¥35/月</span>\n        <span class=\"annual\">按年付仅需 ¥350/年</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"plan-card\">\n      <h3>团队版</h3>\n      <div class=\"plan-price\">\n        <span class=\"monthly\">¥85/月</span>\n        <span class=\"annual\">按年付仅需 ¥850/年</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </section>\n\n  <section id=\"clients\" class=\"clients\">\n    <h2>客户端接入</h2>\n    <p>翻儿不提供专有客户端。用户需根据自身操作系统选择兼容通用协议的第三方软件进行接入。</p>\n    <p>Windows 平台：请获取支持订阅导入的通用客户端。导入控制面板提供的订阅链接后，更新节点列表并选择延迟最低的节点。</p>\n    <p>macOS 平台：操作流程与 Windows 一致。部分客户端可能需要额外授权系统网络权限。</p>\n    <p>移动端：请前往各自应用商店获取合规工具。导入方式请参照软件内置帮助文档。</p>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>流量用尽后是否可以继续使用？</summary>\n      <p>不可以。当月流量配额耗尽后，所有节点连接将被自动切断。您可选择等待次月自动重置，或在控制台单独购买流量附加包。</p>\n    </details>\n    <details>\n      <summary>不同套餐的线路质量差异体现在哪里？</summary>\n      <p>基础版使用标准公网节点，旗舰版与团队版包含 IPLC 专线节点。专线节点通过内网直连规避公网拥堵，在网络高峰期能保持更稳定的吞吐量。</p>\n    </details>\n    <details>\n      <summary>是否提供试用或退款？</summary>\n      <p>翻儿暂不提供免费试用。已支付订阅如遇严重技术故障导致连续 48 小时无法连接，可提交工单申请按比例退款。</p>\n    </details>\n    <details>\n      <summary>支持哪些代理协议？</summary>\n      <p>服务端兼容主流的 Shadowsocks 与 Vmess 协议。具体协议与参数由系统自动下发至订阅链接，无需用户手动指定。</p>\n    </details>\n  </section>\n</main>\n\n<footer>\n  翻儿 · 本页面内容为配置说明文档\n</footer>",
+          "hash": "44c04d3ca401090b03acfe104c0c5c4e6caa87fa4abd94485cec3c486293a67e",
+          "seo": {
+            "title": "翻儿 - 务实的网络中转服务",
+            "keywords": "翻儿,网络中转,专线加速,节点服务,流媒体解锁",
+            "description": "翻儿提供务实的网络中转服务配置说明。涵盖流量配额、设备支持、线路特性与订阅接入。适用于需要稳定全局代理环境的用户。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "3558",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nmtskjr.cn",
+    "host": "p-a3fde5dea3.nmtskjr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e63335ffb9971377f495d9151068cffb8de2574244ecf4c811d5f67759f16f89",
+    "sitemap.xml": "280cd3949ae8e2b71d5296f76fcd0b8f0e4456100ff3f45048cc6b19e409d548",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a476cbfab2194a89c8a99677fb68b59c49e5c8a05631517b3625501ee083c00d",
+    "robots.txt": "36b21cacd43bcaf2b17c7ec975d5a65ef40368e58f10cd80318ede482c07a05a",
+    "09281f84e3d17a0fed507cd451ddec32.txt": "4485b17fc9a36ec0c01805b99a2f60fd9197df95e102b11227ec31ed3ce22c1b"
+  },
+  "revision": "66d4b641c0947d9bcb7a5bd062b7f59935a1edbfb1ecc8adb592e2b66a7fd3cc"
+}
